@@ -21,7 +21,7 @@ To explore and run the code, you need to have the following:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/SmartHacks25/Generate-TV-scripts.git
+    git clone https://github.com/shradhamaria/Generate-TV-scripts.git
     cd Generate-TV-scripts
     ```
 
